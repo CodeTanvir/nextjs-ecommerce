@@ -75,14 +75,19 @@ This project is being developed as a **real production-style application**, not 
 
 ## 📸 Screenshots
 
-| Page                 | Preview                                          |
-|-----|------|------------------------------------------------------------|
-| 📝 Registration Page | ![Home Page](./screenshot/registration-Page.png) |
-| 🔐 Login Page        | 🚧 In Progress | Coming Soon                     |
-| 🏠 Home Page         | 🚧 Planned | Coming Soon                         |
-| 🛍️ Shop Page         | 🚧 Planned | Coming Soon                         |
-| 🛒 Cart Page         | 🚧 Planned | Coming Soon                         |
-| 📊 Admin Dashboard   | 🚧 Planned | Coming Soon                         |
+## 📸 Screenshots
+
+| Page | Preview |
+|------|---------|
+| 📝 Registration Page | ![Registration Page](./screenshot/registration-Page.png) |
+| 🔐 Login Page | 🚧 In Progress |
+| 🏠 Home Page | 🚧 Planned |
+| 🛍️ Shop Page | 🚧 Planned |
+| 🛒 Cart Page | 🚧 Planned |
+| 📊 Admin Dashboard | 🚧 Planned |
+
+> Screenshots will be added as features are completed.
+
 
 > Screenshots will be added as features are completed.
 
